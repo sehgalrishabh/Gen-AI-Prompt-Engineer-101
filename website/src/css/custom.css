@@ -1,0 +1,36 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Space Grotesk', 'Segoe UI', sans-serif;
+  --ifm-color-primary: #0e7490;
+  --ifm-color-primary-dark: #0c6780;
+  --ifm-color-primary-darker: #0b6178;
+  --ifm-color-primary-darkest: #095064;
+  --ifm-color-primary-light: #1081a0;
+  --ifm-color-primary-lighter: #1288a8;
+  --ifm-color-primary-lightest: #1699bc;
+  --ifm-code-font-size: 93%;
+  --ifm-background-color: #f8fafc;
+  --docusaurus-highlighted-code-line-bg: rgba(14, 116, 144, 0.08);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #22d3ee;
+  --ifm-color-primary-dark: #10c0db;
+  --ifm-color-primary-darker: #0fb6cf;
+  --ifm-color-primary-darkest: #0c95a9;
+  --ifm-color-primary-light: #3ad8f0;
+  --ifm-color-primary-lighter: #4bdbf1;
+  --ifm-color-primary-lightest: #73e2f4;
+  --ifm-background-color: #0b1220;
+  --docusaurus-highlighted-code-line-bg: rgba(34, 211, 238, 0.16);
+}
+
+.navbar {
+  backdrop-filter: saturate(170%) blur(10px);
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+[data-theme='dark'] .navbar {
+  background-color: rgba(15, 23, 42, 0.78);
+}
