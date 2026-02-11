@@ -43,6 +43,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'appendices/appendix-1-prompt-engineering-cheatsheets',
         'appendices/appendix-2-useful-tools',
+        'appendices/appendix-3-prompt-engineering-interview-questions',
       ],
     },
   ],

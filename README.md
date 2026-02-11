@@ -44,6 +44,7 @@ flowchart TD
     P3 --> P4[Part 4: Professional Edge]
     P4 --> A1[Appendix 1: Cheatsheets]
     P4 --> A2[Appendix 2: Useful Tools]
+    P4 --> A3[Appendix 3: Interview Questions]
 ```
 
 ---
@@ -76,6 +77,7 @@ flowchart TD
 
 - [Appendix 1: Prompt Engineering Cheatsheets](appendix-1-prompt-engineering-cheatsheets.md)
 - [Appendix 2: Useful Tools for Prompt Engineers](appendix-2-useful-tools.md)
+- [Appendix 3: Prompt Engineering Interview Questions](appendix-3-prompt-engineering-interview-questions.md)
 
 ---
 
@@ -106,6 +108,7 @@ flowchart LR
     D --> E[Part 4: Professional Edge]
     E --> F[Appendix 1: Cheatsheets]
     E --> G[Appendix 2: Useful Tools]
+    E --> H[Appendix 3: Interview Questions]
 ```
 
 ---
@@ -150,3 +153,4 @@ To keep quality high and workflow controlled:
 - [x] Chapter 10 draft
 - [x] Appendix 1 draft
 - [x] Appendix 2 draft
+- [x] Appendix 3 draft
